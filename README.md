@@ -8,6 +8,7 @@
 </a>
 
 - 🔭 I’m currently working on classifying insect species using LiDAR and Machine Learning with a research team at NJIT
+- 🤖 I'm also part of the Vex Competitive Robotics programming team in the NJIT Robotics club
 - 🌱 I’m currently learning TensorFlow, Python, and C++
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I played on my high school bowling team
