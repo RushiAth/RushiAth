@@ -11,6 +11,7 @@
 - 🤖 I'm also part of the VEX Competitive Robotics programming team in the NJIT Robotics club
 - 💻 I'm participating in an Embedded Systems Project at NJIT, we are making an automatic whiteboard cleaner and scanner
   - Specifically, I am working on the camera and scanning functionality in Python with a Raspberry Pi
-- 🌱 I’m currently learning Python, C++, and SQL
+- 🌱 I’m currently an expert in Python, C++, and SQL
+  - I'm learning C, Linux and Shell Scripting with Bash, and Tableau 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I played on my high school bowling team
