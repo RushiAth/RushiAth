@@ -7,14 +7,16 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-- 🔭 This past summer, I worked on classifying insect species using LiDAR and Machine Learning with a research team at NJIT
+- 🔭 I currently work as a Software Development Intern at S&P Global Inc., working on projects related to NLP and machine learning, as well as SQL and Big Data.
+  
+- 🐝 Previously, I worked on classifying insect species using LiDAR and Machine Learning with a research team at NJIT
 
 - 🤖 I'm also part of the VEX Competitive Robotics programming team in the NJIT Robotics club
 
-- 💻 I'm participating in an Embedded Systems Project at NJIT, we are making an automatic whiteboard cleaner and scanner
-  - Specifically, I am working on the camera and scanning functionality in Python with a Raspberry Pi
+- 💻 I participated in an Embedded Systems Project at NJIT, we made an automatic whiteboard cleaner and scanner
+  - Specifically, I worked on the camera and scanning functionality in Python with a Raspberry Pi
   
-- 🌱 I’m currently an expert in Python and C/C++
+- 🌱 I’m an expert in Python and C/C++
   - I'm learning SQL/Database Management, Linux and Shell Scripting with Bash, and Tableau 
   
 - ⚡ Fun fact: I played on my high school bowling team
