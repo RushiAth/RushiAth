@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-- 🔭 I currently work as a Software Development Intern at S&P Global Inc., working on projects related to NLP and machine learning, as well as SQL and Big Data.
+- 📊 I am currently working as an intern in the Data, Analytics, and Insights Team at Mars Inc.
+
+- 🔭 I was a Software Development Intern at S&P Global Inc., working on projects related to NLP and machine learning, as well as SQL and Big Data.
   
 - 🐝 Previously, I worked on classifying insect species using LiDAR and Machine Learning with a research team at NJIT
 
