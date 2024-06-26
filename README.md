@@ -19,6 +19,6 @@
   - Specifically, I worked on the camera and scanning functionality in Python with a Raspberry Pi
   
 - 🌱 I’m an expert in Python and C/C++
-  - I'm learning SQL/Database Management, Linux and Shell Scripting with Bash, and Tableau 
+  - I'm learning SQL/Database Management, Linux and Shell Scripting with Bash, and Azure 
   
 - ⚡ Fun fact: I played on my high school bowling team
